@@ -4,7 +4,7 @@
 Для запуска приложения 
 1. Введите команды в консоль
 ```bash
-cd .\backend\
-node index.js
+npm install
+node server.js
 ```
-2. Откройте файл index.html в браузере
+
